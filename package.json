@@ -1,6 +1,6 @@
 {
   "name": "use-infinite-scrolling",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Hook for infinite scrolling on virtually any vertically scrollable element.",
   "keywords": [
     "react",

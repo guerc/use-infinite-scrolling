@@ -21,7 +21,7 @@ const MyComponent = () => {
   };
 
   const elemRef = useRef(null);
-  useInfiniteScrolling(ref, onBottomHit, { gap: 0 });
+  useInfiniteScrolling(elemRef, onBottomHit, { gap: 0 });
 
   return <div ref={elemRef} />;
 }
